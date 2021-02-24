@@ -4,7 +4,7 @@ PowerShell script to run openMVS on Windows in correct order without interaction
 Windows PowerShell script for auto process all stages of openMVS in one shot
 
 1.) select the <scene>.mvs (the output of the point cloud program)
-2.) open thh folder with the openMVS binaries (.exe) files
+2.) open the folder with the openMVS binaries (.exe) files
 
 works good with Regard3d, use -> export to folder 
 open openMVS for windows binaries are found in the windows sample on github
