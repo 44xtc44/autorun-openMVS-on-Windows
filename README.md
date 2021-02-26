@@ -1,11 +1,13 @@
 # autorun-openMVS-on-Windows
 PowerShell script to run openMVS on Windows in the correct order without user interaction, since this guy can run days.
 An ready to use openMVS for windows sample: https://github.com/cdcseacave/openMVS_sample
+
 If you decided to use Regard3d point cloud program https://www.regard3d.org/, choose the export to folder otion.
 
 All stages of openMVS in one shot (script runs the good default settings):
 
 1.) select the <scene>.mvs - the objcts point cloud
+
 2.) open the folder with the openMVS binaries (.exe) files
 
 Hint:
