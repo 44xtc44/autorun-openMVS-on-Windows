@@ -6,6 +6,7 @@ If you decided to use Regard3d point cloud program https://www.regard3d.org/, ch
 All stages of openMVS in one shot (script runs the good default settings):
 
 1.) select the <scene>.mvs - the objcts point cloud
+
 2.) open the folder with the openMVS binaries (.exe) files
 
 Hint:
